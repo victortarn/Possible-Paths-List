@@ -1,6 +1,6 @@
 """A4_2 contains a recursive function hopping_game(n) that takes the
 number of squares lined up on the ground n and returns a list of all the
-possible hopping paths if one or two squars can be hopped at a time.
+possible hopping paths if one or two squares can be hopped at a time.
 
 Authour: Victor Tarnovski
 Date 2020-12-2
